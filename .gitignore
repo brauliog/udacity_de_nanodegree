@@ -152,3 +152,6 @@ fabric.properties
 
 # venv
 app_env/
+
+# mac ds store
+.DS_Store
